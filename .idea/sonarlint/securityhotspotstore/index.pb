@@ -21,3 +21,13 @@ W
 'src/ch02/sec09/StringConcatExample.java,5/6/560466aff6bacbf9bc1302ebc4bf0352a7325448
 X
 (src/ch02/sec10/StringConvertExample.java,9/8/98cda63f132ea66e3ea9316b9ced2d2412490768
+P
+ src/ch02/sec12/PrintExample.java,c/3/c3753e69dbedb22c75df4a1d5ddd082e019f3d84
+R
+"src/ch02/sec13/ScannerExample.java,c/5/c53463f36c7e15f0623f63a7a89c5227fdf1e764
+]
+-src/ch02/plus/scanner/ScannerExamplePlus.java,6/6/66872eb8febfd4a5cc2cc3e6d678efcbed68b5cf
+W
+'src/ch03/sec01/SignOperatorExample.java,4/f/4f385c96afcea7e3cd8021ba770cb6d37c85a133
+Y
+)src/ch03/sec01/IncDecOperatorExample.java,5/c/5ccf894aa4852620faf0d93ce9ebfe45614c32e6

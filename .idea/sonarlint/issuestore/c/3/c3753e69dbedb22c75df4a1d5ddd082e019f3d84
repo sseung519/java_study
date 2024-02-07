@@ -1,0 +1,22 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(æè²8£ÓíØ1
+X	java:S125"<This block of commented-out lines of code should be removed.(€ ¤¥8®ÓíØ1
+X	java:S125"<This block of commented-out lines of code should be removed.(Öµ¸¨8°ÓíØ1
+m
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(àÇÏP8²ÓíØ1
+F	java:S106"+Replace this use of System.out by a logger.(àÇÏP8²ÓíØ1
+n
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(ğû³Œ8²ÓíØ1
+G	java:S106"+Replace this use of System.out by a logger.(ğû³Œ8³ÓíØ1
+n
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(İ’ë®8³ÓíØ1
+G	java:S106"+Replace this use of System.out by a logger.(İ’ë®8³ÓíØ1
+n
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(¬˜¢¦8³ÓíØ1
+G	java:S106"+Replace this use of System.out by a logger.(¬˜¢¦8³ÓíØ1
+L	java:S106"+Replace this use of System.out by a logger.(ÅµÙšıÿÿÿÿ8´ÓíØ1
+G	java:S106"+Replace this use of System.out by a logger.(ëÚŒ‡8´ÓíØ1
+s
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(ƒßÂ·şÿÿÿÿ8—­òØ1
+L	java:S106"+Replace this use of System.out by a logger.(ƒßÂ·şÿÿÿÿ8´ÓíØ1
+G	java:S106"+Replace this use of System.out by a logger.(êëã‘8µÓíØ1
