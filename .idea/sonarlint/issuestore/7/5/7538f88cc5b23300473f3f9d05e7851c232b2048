@@ -1,0 +1,26 @@
+
+d
+java:S2184)"BCast one of the operands of this division operation to a "double".(Ëœş¬øÿÿÿÿ8í§³é×1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÄşŠìúÿÿÿÿ8î§³é×1
+]
+java:S1854";Remove this useless assignment to local variable "result7".(òÖ…ïüÿÿÿÿ8ó§³é×1
+X
+java:S1854";Remove this useless assignment to local variable "reulst4".(Å’£8ó§³é×1
+X
+java:S1854";Remove this useless assignment to local variable "result3".(¶öÀ³8ô§³é×1
+G	java:S106"+Replace this use of System.out by a logger.(Æùèâ8ô§³é×1
+I
+java:S1481",Remove this unused "result3" local variable.(¶öÀ³8õ§³é×1
+L	java:S106"+Replace this use of System.out by a logger.(ùË˜½ùÿÿÿÿ8õ§³é×1
+I
+java:S1481",Remove this unused "reulst4" local variable.(Å’£8õ§³é×1
+L	java:S106"+Replace this use of System.out by a logger.(Ò­ÖØùÿÿÿÿ8õ§³é×1
+N
+java:S1481",Remove this unused "result7" local variable.(òÖ…ïüÿÿÿÿ8õ§³é×1
+L	java:S106"+Replace this use of System.out by a logger.(¼ªåèúÿÿÿÿ8õ§³é×1
+L	java:S106#"+Replace this use of System.out by a logger.(Õßòûÿÿÿÿ8õ§³é×1
+G	java:S106$"+Replace this use of System.out by a logger.(’¹Ó‚8ö§³é×1
+L	java:S106*"+Replace this use of System.out by a logger.(¾Öäüÿÿÿÿ8ö§³é×1
+G	java:S106."+Replace this use of System.out by a logger.(”ÆÔç8ö§³é×1
+L	java:S1062"+Replace this use of System.out by a logger.(¨îõ÷úÿÿÿÿ8ö§³é×1
+L	java:S1066"+Replace this use of System.out by a logger.(¤ÁÄŠüÿÿÿÿ8ö§³é×1

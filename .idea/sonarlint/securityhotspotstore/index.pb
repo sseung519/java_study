@@ -1,0 +1,23 @@
+
+`
+0src/ch02/sec01/variableInitialZationExample.java,7/1/714e55c1b6e78d0a3a18fa98b72c0e28980c40ed
+[
++src/ch02/sec01/VariableExchangeExample.java,1/d/1db0f6889e6b2ef78166cef02cf94100007551e9
+O
+src/ch02/sec02/ByteExample.java,4/a/4a2a80aa7fa3fd2539ab3ac69279a4396b9c49cb
+O
+src/ch02/sec02/LongExample.java,3/3/3380d5ae1621e6d9c5169547459f12ff51fa738e
+Y
+)src/ch02/sec02/IntegerLiteralExample.java,5/4/547ee787916413a822302e4a8de57409b5d106d7
+O
+src/ch02/sec03/CharExmaple.java,5/8/5828275a00d6441a5c4689ddcb2068296b4779b1
+T
+$src/ch02/sec07/PromotionExample.java,d/f/dfe3999b629cc07ad7c464415f22f910c8b87afd
+R
+"src/ch02/sec08/CastingExample.java,f/1/f1e8722cc3f79b093ee3955fbb3d8993d9825a7f
+S
+#src/ch02/sec09/OperatorExample.java,7/5/7538f88cc5b23300473f3f9d05e7851c232b2048
+W
+'src/ch02/sec09/StringConcatExample.java,5/6/560466aff6bacbf9bc1302ebc4bf0352a7325448
+X
+(src/ch02/sec10/StringConvertExample.java,9/8/98cda63f132ea66e3ea9316b9ced2d2412490768
